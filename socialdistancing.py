@@ -35,13 +35,13 @@ print(g.latlng)
 #lat = 40.7060008 lng = -74.0088189
 
 #my_location = google_maps.search(lat=lat, lng=lng).first()
-#changing -----------PARAMETERS----------- according to camera height
+#changing -----------PARAMETERS----------- according to camera height*****
 motion_area=250#900 for common 250 vtest1
 crowd_area=450 #above number 2500 vtest 1500vtest2 700/450vtest1
 crowdwidth,crowdheight = (8,8)    #w,h 8 vtest1 50 others 150 vtest
 person_distance=  8 #vtest 60 vtest2 75 vtest1 10
 area_test=[]
-#yet to find exact relation--------END---------
+#yet to find exact relation--------END---------**********
 #testing parameters
 #y,u,j,p=(0,0,0,0)
 #end of testing
@@ -136,5 +136,5 @@ print(area_test)
     #cap.release()
 out.release()
 cv2.destroyAllWindows()
-#cap.release()
+#cap.release()  #if we are using live stream from camera****
 #out.release()
