@@ -7,3 +7,4 @@ BUT IT IS TO ME MADE UNIVERSAL HENCE YOUR COMMITS ARE NEEDED.
 SOME OF THE OUTPUTS FROM THE FOOTAGE IS IN file NAMED output__.mp4
 
 Happy coding.
+![output@maxheight](/output.png)
